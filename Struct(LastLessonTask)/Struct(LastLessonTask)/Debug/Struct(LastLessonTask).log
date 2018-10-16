@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\основы проги лаб\struct(lastlessontask)\struct(lastlessontask)\main.cpp(102): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+d:\основы проги лаб\struct(lastlessontask)\struct(lastlessontask)\main.cpp(239): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Struct(LastLessonTask).vcxproj -> D:\Основы проги ЛАБ\Struct(LastLessonTask)\Debug\Struct(LastLessonTask).exe
